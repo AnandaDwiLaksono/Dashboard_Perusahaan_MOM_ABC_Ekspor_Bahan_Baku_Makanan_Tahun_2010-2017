@@ -1,0 +1,2 @@
+# Dashboard_Perusahaan_MOM_ABC_Ekspor_Bahan_Baku_Makanan_Tahun_2010-2017
+I was given data from a food raw material export company. From this data, I created a dashboard that contains  trends in revenue from year to year, the best-selling month in exporting, the rate of delivery delays, and many  others. Before making the dashboard I have to clean the data that is given first and then I process it.
